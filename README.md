@@ -175,7 +175,7 @@ To change where the "Open App" button redirects users, edit the `handleOpenApp` 
 ```typescript
 const handleOpenApp = () => {
   // Replace with your actual app URL
-  window.location.href = "https://swiftshaadi.com/app";
+  window.location.href = "https://app.swiftshaadi.com";
 };
 ```
 

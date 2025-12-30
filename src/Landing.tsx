@@ -40,7 +40,7 @@ export default function Landing() {
 
   const handleOpenApp = () => {
     // Replace this URL with your actual app URL
-    window.location.href = "https://swiftshaadi.com/app";
+    window.location.href = "https://app.swiftshaadi.com";
   };
 
   const featureTabs = [

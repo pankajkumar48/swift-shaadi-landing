@@ -307,7 +307,7 @@ If you need to use different tracking IDs or API endpoints for different environ
 3. Update `Landing.tsx`:
    ```typescript
    const handleOpenApp = () => {
-     window.location.href = import.meta.env.VITE_APP_URL || "https://swiftshaadi.com/app";
+     window.location.href = import.meta.env.VITE_APP_URL || "https://app.swiftshaadi.com";
    };
    ```
 
